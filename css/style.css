@@ -1200,6 +1200,9 @@ footer{
     .cursos-box-text p{
         font-size: 1.6rem;
     }
+    .cursos-box-conteudo p{
+     font-size: 1.6rem;
+    }
     .cursos-box img{
         max-width: 100%;
     }
