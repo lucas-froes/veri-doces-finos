@@ -1206,6 +1206,9 @@ footer{
     .cursos-box-img{
         margin-left: 0rem;
     }
+    .cursos-box-conteudo p{
+      font-size: 1.6rem;
+    }
    .ebook-title h1{
     font-size: 2.4rem;
     text-align: center;
